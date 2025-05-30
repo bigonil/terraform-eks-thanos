@@ -1,0 +1,6 @@
+// ...existing code...
+variable "resource_name" {
+    description = "Name of the resource to create"
+    type        = string
+}
+// ...existing code...

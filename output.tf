@@ -1,0 +1,6 @@
+// ...existing code...
+output "resource_name" {
+    description = "Name of the created resource"
+    value       = var.resource_name
+}
+// ...existing code...
